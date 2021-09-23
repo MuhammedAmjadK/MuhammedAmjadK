@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammedAmjadK
+- 👋 Hi, I’m MuhammedAmjadK
 - 👀 I’m interested in building beautiful native applications for mobile, web , and desktop
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on OpenSource Projects
